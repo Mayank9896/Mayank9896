@@ -1,0 +1,1 @@
+# Icon sources\n\nEmbedded Python, Postman, Ansible, Terraform, and GitHub marks come from [Simple Icons](https://github.com/simple-icons/simple-icons), licensed under [CC0 1.0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md). Brand names and marks remain the property of their owners.\n
